@@ -3,3 +3,4 @@ accelerate
 torch
 bitsandbytes  # 8비트 양자화를 위한 라이브러리
 scipy  # bitsandbytes의 의존성
+flash-attn  # Flash Attention 2 (성능 향상)
