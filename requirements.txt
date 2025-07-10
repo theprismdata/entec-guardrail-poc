@@ -1,0 +1,5 @@
+transformers>=4.51.3
+accelerate
+torch
+bitsandbytes  # 8비트 양자화를 위한 라이브러리
+scipy  # bitsandbytes의 의존성
